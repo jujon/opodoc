@@ -1,5 +1,6 @@
 *.class
-
+# Elimino del proyecto mis ficheros de comentarios
+*.txt  
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
